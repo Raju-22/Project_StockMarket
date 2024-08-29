@@ -114,22 +114,6 @@ Stacked LSTM, and Bidirectional LSTM models across all datasets. The
 results will help determine which model is most effective for predicting
 stock and cryptocurrency
 
-4o
-
-**You said:**
-
-write a readme file for GitHub with
-overview,objectives,Features,Installation,usage,Data,Contributing,License
-for the above research ARIMA vs LSTM vs Stacked LSTM vs Bi-Directional
-LSTM for Stock and Cryptocurrency Prediction
-
-**ChatGPT said:**
-
-ChatGPT
-
-Here's a template for the README file on GitHub for the project titled
-\"ARIMA vs LSTM vs Stacked LSTM vs Bi-Directional LSTM for Stock and
-Cryptocurrency Prediction\":
 
 **ARIMA vs LSTM vs Stacked LSTM vs Bi-Directional LSTM for Stock and
 Cryptocurrency Prediction**
